@@ -10,7 +10,7 @@ Os : Windows 11
 #### Train Data  
 (1920 * 1080) * 338088  
 #### Valid Data
-(1920 * 1080) * 42261
+(1920 * 1080) * 42261  
 data link(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71306)
 
 ### Used Sementic-Segmentation Model - Yolov8x-seg.pt
