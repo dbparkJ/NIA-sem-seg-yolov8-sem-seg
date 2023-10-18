@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 /train_model/yolov8l-seg.pt
 /train_model/yolov8n.pt
+/train_model/yolov8n.pt
+/train_model/yolov8m-seg.pt
+/train_model/yolov8n-seg.pt

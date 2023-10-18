@@ -1,0 +1,18 @@
+Class_id {
+    0 : PE Drum Normal (PE드럼 정상)
+    1 : PE Drum Damaged (PE드럼 파손)
+    2 : PE Bunker Normal (PE방호벽 정상
+    3 : PE Bunker Damaged (PE방호벽 파손
+    4 : PE Guide Post Normal (PE안내봉 정상
+    5 : PE Guide Post Damaged PE안내봉 파손
+    6 : Labacon Normal 라바콘 정상
+    7 : Labacon Damaged 라바콘 파손
+    8 : Snow Grooming Bollard Normal 시선유도봉 정상
+    9 : Snow Grooming Bollard Damaged 시선유도봉 파손"
+    10 : Snow Blower Normal 제설함 정상"
+    11 : Snow Blower Damaged 제설함 파손
+    12 : PE Signboard Normal PE입간판 정상
+    13 : PE Signboard Damaged PE입간판 파손
+    14 : PE Signboard Damaged PE휀스 정상
+    15 : PE Fence Damaged PE휀스 파손
+    }
