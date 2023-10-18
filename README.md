@@ -1,4 +1,4 @@
-# NIA-sem-seg-yolov8-seg
+# AI_HUB-sem-seg-yolov8-seg
 
 ### Hard Ware
 CPU : Intel i9 13900F  
