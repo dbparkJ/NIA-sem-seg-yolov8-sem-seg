@@ -1,8 +1,9 @@
 # AI_HUB-sem-seg-yolov8-seg
 
 ### Hard Ware
-CPU : Intel i9 13900F  
-GPU : NVIDIA GeForce RTX 4070 Laptop GPU, 8188MiB
+CPU : 13th Gen Intel(R) Core(TM) i9-13980HX   2.20 GHz  
+GPU : NVIDIA GeForce RTX 4070 Laptop GPU, 8GB  
+RAM : DDR5 4800Mhz 64GB (32*2)
 
 ### Soft Ware
 Os : Windows 11    
